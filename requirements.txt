@@ -70,8 +70,6 @@ joblib==1.0.1
 json5==0.9.5
 
 jupyter==1.0.0
-jupyter-core==4.6.3
-jupyterlab==2.2.6
 keras==2.7.0
 Keras-Preprocessing==1.1.2
 lazy-object-proxy==1.4.3
@@ -167,7 +165,6 @@ tifffile==2020.10.1
 timeseries==0.5.0
 torch==1.10.0
 torchvision==0.11.1
-tornado==6.0.1
 unicodecsv==0.14.1
 visions==0.7.4
 webencodings==0.5.1
